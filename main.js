@@ -93,5 +93,5 @@ function sendMail2(){
 
 function NewTab() {
     window.open(
-      "https://hindustanuniv.ac.in/", "_blank");
+      "https://vimalpremkumar.github.io/", "_blank");
 }
